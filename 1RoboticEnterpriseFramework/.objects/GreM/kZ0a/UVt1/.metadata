@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sistema ACME 1 - Itens de trabalho",
+  "Type": "Screen",
+  "Id": "UVt1-GX1y06o8LF4W-NtXg",
+  "Reference": "XRLdAZXyCUa5h4hXMODuuQ/UVt1-GX1y06o8LF4W-NtXg",
+  "ParentRef": "XRLdAZXyCUa5h4hXMODuuQ/kZ0a_KN91kGOZSGJZDURPw",
+  "Created": "2024-11-24T19:40:52.0810554Z",
+  "Updated": "2024-11-24T19:40:52.0810554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
