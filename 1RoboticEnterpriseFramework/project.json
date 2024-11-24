@@ -1,7 +1,7 @@
 {
   "name": "Dispacher_GenerateYearlyReportforVendor",
   "projectId": "f3441c0b-d33a-4b8a-bf9e-26d6daf9e47b",
-  "description": "Robotic Enterprise Framework com prpjeto integrado de Dispatcher e Performer. \r\nDaos do tipo WI4 Serão extraidos e colocados no Orchestrador e posteriormente tratados. ",
+  "description": "Robotic Enterprise Framework com prpjeto integrado de Dispatcher;\r\nDados do tipo WI4 Serão extraidos e colocados no Orchestrador e posteriormente tratados. ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.3]",
