@@ -1,0 +1,5 @@
+Dados Extra
+
+-----------Asset que guarda Url------------
+Nome = AcmeSystem1_LoginPageUrl
+text = https://acme-test.uipath.com/login
